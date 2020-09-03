@@ -1,0 +1,22 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-color:gray
+}
+#div2{
+    color:black;
+    width:50px;
+    height:50px;
+    background-color:red;
+    position:relative;
+    left:10%;
+}
+#div1{
+    background-color:blue;
+    width:60%;
+    color:white;
+}
+.divs{
+}
+#image{
+    width:10%;
+}
