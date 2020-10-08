@@ -3,6 +3,7 @@ html{
 }
 body{
     height:100%;
+    background-color: rgb(211, 70, 60);
 }
 #timeline{
     height:100%;
