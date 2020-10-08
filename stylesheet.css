@@ -20,3 +20,9 @@ body{
 #image{
     width:10%;
 }
+.hud{
+    background-color:white;
+    border-style:solid;
+    border-color:red;
+    text-align:center;
+}
